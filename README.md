@@ -14,7 +14,7 @@
 
 例图：
 
-<img src="./test_img/simple_3.png" alt="simple_3" style="zoom:33%;" />
+<img src="./extract1_test_img/simple_3.png" alt="simple_3" style="zoom:33%;" />
 
 分割后：
 ![simple_3](./pic/simple_3.jpg)
